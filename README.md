@@ -11,7 +11,7 @@
     git clone <link_repositorio>
     ```
 
-3. Instalar las dependiencias/librerias ejecutando:
+3. Entar a la carpeta ``Capacitaciones``(La que obtienen despues de ejcutar el comando anterior),Instalar las dependiencias/librerias ejecutando:
     ```
     pip install -r requiments.txt
     ```
@@ -21,4 +21,5 @@
     - Lazos (for, while)
     - Estructuras de datos (listas, diccionarios, tuplas)
     - Funciones en python
+    - Jupyter notebook
     - Libreria pandas y matplotlib
