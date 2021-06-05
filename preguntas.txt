@@ -3,3 +3,7 @@
 3. Filtrar los datos por cuya supervivencia sea mayor a la supervivencia promedio de todas las piscinas
 4. Obtener crecimiento min y max por semana (relativo)
 5. Abrir el archivo de excel en un DataFrame
+
+6. Obtener el promedio de supervivencia por semana y por piscinas
+7. Hacer un grafico del FCA final con ejes en español
+8. Ordenar a las pisicnas por el crecimiento semanalas y graficar

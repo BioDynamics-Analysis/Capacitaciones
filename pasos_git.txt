@@ -1,0 +1,13 @@
+#para descagar el proyecto (solo 1 vez)
+git clone <link_repo>
+
+#Descargar avances
+git pull
+
+#Agregar avances
+git add .
+git commit -m "mensaje"
+git push
+
+#Adicionales
+git status
