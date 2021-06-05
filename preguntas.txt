@@ -1,0 +1,5 @@
+1. Calcular la comida la comida que consume cada camaron. (es decir, si yo hoy lanzo 100kg de comida y tengo 100 camarones, cada camaron consume 1kg)
+2. Obtener el peso min, prom y max por dias (relativo)
+3. Filtrar los datos por cuya supervivencia sea mayor a la supervivencia promedio de todas las piscinas
+4. Obtener crecimiento min y max por semana (relativo)
+5. Abrir el archivo de excel en un DataFrame
