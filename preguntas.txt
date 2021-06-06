@@ -4,6 +4,11 @@
 4. Obtener crecimiento min y max por semana (relativo)
 5. Abrir el archivo de excel en un DataFrame
 
-6. Obtener el promedio de supervivencia por semana y por piscinas
+6. Obtener el promedio de supervivencia por semana y por piscinas y graficar
 7. Hacer un grafico del FCA final con ejes en español
 8. Ordenar a las pisicnas por el crecimiento semanalas y graficar
+9. Calcular el crecimiento semanal y graficar (Crecimiento = Peso_final-Peso_inicial)
+10. Calcular la temp media, min y max y graficar
+11. Calcular la concentracion de oxigeno y graficar un boxplot por hora (saturacion/DO)
+
+NOTA: Todas las graficas deben estar bien presentadas y guardadas en su carpeta
